@@ -1,4 +1,0 @@
-USERNAME: jjj
-PASSWORD: jjj
-BALANCE: 0
-ID: 1805

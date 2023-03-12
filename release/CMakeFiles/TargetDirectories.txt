@@ -1,4 +1,0 @@
-D:/my-folder/documents/projects/C++/dev/GuitarRent/release/CMakeFiles/Rent.dir
-D:/my-folder/documents/projects/C++/dev/GuitarRent/release/CMakeFiles/edit_cache.dir
-D:/my-folder/documents/projects/C++/dev/GuitarRent/release/CMakeFiles/rebuild_cache.dir
-D:/my-folder/documents/projects/C++/dev/GuitarRent/release/CMakeFiles/Rent_autogen.dir
