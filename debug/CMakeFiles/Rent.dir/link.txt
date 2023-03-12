@@ -1,3 +1,0 @@
-D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Rent.dir/objects.a
-D:\programms\mingw\bin\ar.exe qc CMakeFiles\Rent.dir/objects.a @CMakeFiles\Rent.dir\objects1.rsp
-D:\programms\mingw\bin\c++.exe -mwindows -Wl,--whole-archive CMakeFiles\Rent.dir/objects.a -Wl,--no-whole-archive -o Rent.exe -Wl,--out-implib,libRent.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Rent.dir\linklibs.rsp
